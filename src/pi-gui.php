@@ -17,7 +17,7 @@
             <div class="hero-unit">
 
 
-                <img src="assets/images/pi.jpg" valign="center">
+                <img src="assets/images/pi.jpg" valign="center" width="200">
 
                 <h1>I will calculate PI for you!!!!</h1>
                 
